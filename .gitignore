@@ -1,0 +1,7 @@
+bin/
+obj/
+Properties/
+*.csproj
+*.Designer.cs
+*.resx
+*.png
